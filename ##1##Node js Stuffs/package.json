@@ -1,0 +1,26 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "package file for app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushwantkodecha/NodeJsPractice.git"
+  },
+  "author": "khushwantkodecha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khushwantkodecha/NodeJsPractice/issues"
+  },
+  "homepage": "https://github.com/khushwantkodecha/NodeJsPractice#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "ws": "^7.2.1"
+  }
+}
